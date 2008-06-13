@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn2/rails/!svn/ver/133/mmsc/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn2/rails/!svn/ver/133/mmsc/test/test_helper.rb
+END
+test_mmsc_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn2/rails/!svn/ver/159/mmsc/test/test_mmsc_manager.rb
+END

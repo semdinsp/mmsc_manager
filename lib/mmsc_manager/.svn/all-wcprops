@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn2/rails/!svn/ver/133/mmsc/lib/mmsc_manager
+END
+mms_message_old.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn2/rails/!svn/ver/133/mmsc/lib/mmsc_manager/mms_message_old.rb
+END
+mmsc_connection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn2/rails/!svn/ver/136/mmsc/lib/mmsc_manager/mmsc_connection.rb
+END
+mms_message.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn2/rails/!svn/ver/210/mmsc/lib/mmsc_manager/mms_message.rb
+END
+mms_message_old2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn2/rails/!svn/ver/133/mmsc/lib/mmsc_manager/mms_message_old2.rb
+END
+broadcast_topic.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn2/rails/!svn/ver/136/mmsc/lib/mmsc_manager/broadcast_topic.rb
+END
+mms_stomp_message.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn2/rails/!svn/ver/136/mmsc/lib/mmsc_manager/mms_stomp_message.rb
+END
+mms_send_topic.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn2/rails/!svn/ver/150/mmsc/lib/mmsc_manager/mms_send_topic.rb
+END
+mmsc_server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn2/rails/!svn/ver/210/mmsc/lib/mmsc_manager/mmsc_server.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn2/rails/!svn/ver/210/mmsc/lib/mmsc_manager/version.rb
+END

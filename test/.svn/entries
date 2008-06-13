@@ -1,0 +1,50 @@
+8
+
+dir
+133
+http://oliver.ficonab.com/svn2/rails/mmsc/test
+http://oliver.ficonab.com/svn2/rails
+
+
+
+2007-10-27T05:56:18.986577Z
+133
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ceeaca9f-745c-46d7-b156-2271164c1546
+
+test_helper.rb
+file
+
+
+
+
+2007-10-27T05:56:54.000000Z
+31e803511ce9949f60c0ac43d2ea730a
+2007-10-27T05:56:18.986577Z
+133
+
+test_mmsc_manager.rb
+file
+159
+
+
+
+2007-11-09T06:47:59.000000Z
+1c8beb6e17c172c239f395a8e538e0ed
+2007-11-21T12:58:45.209219Z
+159
+

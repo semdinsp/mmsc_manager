@@ -1,0 +1,50 @@
+8
+
+dir
+133
+http://oliver.ficonab.com/svn2/rails/mmsc/config
+http://oliver.ficonab.com/svn2/rails
+
+
+
+2007-10-27T05:56:18.986577Z
+133
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ceeaca9f-745c-46d7-b156-2271164c1546
+
+requirements.rb
+file
+
+
+
+
+2007-10-27T06:05:27.000000Z
+cf66013e505e3e8bfdbfede5fcfb9a5e
+2007-10-27T05:56:18.986577Z
+133
+
+hoe.rb
+file
+
+
+
+
+2007-10-27T06:05:27.000000Z
+76ca559ef20f810330f920a1564be4b2
+2007-10-27T05:56:18.986577Z
+133
+
